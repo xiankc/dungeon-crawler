@@ -1,0 +1,6 @@
+{
+  "name": "Dungeon Platformer",
+  "description": "A polished retro dungeon platformer with jumping, moving obstacles, key-locked doors, and checkpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
